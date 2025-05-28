@@ -22,4 +22,4 @@ This Tableau dashboard visualizes donation trends across alumni and non-alumni d
 | **Audience** | Data & Fundraising Teams |
 | **Insights** | Donor behavior segmentation |
 | **Metrics**  | Donations, Frequency, Alumni status |
-| **Story**    | Optimizing campaign targeting strategies |
+| **Story**    | Optimizing campaign targeting strategies |   
